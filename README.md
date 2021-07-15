@@ -1,6 +1,9 @@
 # RedmiBook16-QCA6174
+
 Xiaomi RedmiBook 16 Ryzen
+
 vendor=168c,device=003e,subsystem-vendor=11ad,subsystem-device=0847
+
 Fedora 33 wifi Atheros QCA6174 fix
 
 mkdir -p /lib/firmware/ath10k/QCA6174/hw3.0
