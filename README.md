@@ -1,10 +1,9 @@
 # RedmiBook16-QCA6174
 
-Xiaomi RedmiBook 16 Ryzen
+Xiaomi RedmiBook 16 Ryzen Fedora 33 wifi Atheros QCA6174 fix
 
 vendor=168c,device=003e,subsystem-vendor=11ad,subsystem-device=0847
 
-Fedora 33 wifi Atheros QCA6174 fix
 
 yum remove linux-firmware*
 
